@@ -36,20 +36,19 @@ This project performs a **full-stack financial data analysis** on the top 10 S&P
 ## 📊 Dashboard Preview
 
 ### 🏠 Executive Dashboard — Home
-![Preview](SP500-stock-analysis-dashboard/screenshots/page1_executive_dashboard.png)
+![Dashboard](SP500-stock-analysis-dashboard/screenshots/page1_executive_dashboard.png)
 *KPI cards showing $92.60 Average Close · 4.30T Total Volume · 3.17% Average Return · 184.24% Volatility. Includes stock price trend (2010–2026) and trading volume by ticker.*
 
 ---
 
 ### 📉 Performance Analysis
-![Performance Analysis](screenshots/page2_performance_analysis.png)
-
+![Performance Analysis](SP500-stock-analysis-dashboard/screenshots/page2_performance_analysis.png)
 *Total growth % comparison, average daily return by ticker, close price vs 30-day moving average, and daily return trend over time.*
 
 ---
 
 ### ⚠️ Risk Analysis
-![Risk Analysis](screenshots/page3_risk_analysis.png)
+![Risk Analysis](SP500-stock-analysis-dashboard/screenshots/page3_risk_analysis.png)
 
 *Volatility rankings, risk vs return scatter plot, return distribution (min/avg/max), and a color-coded risk classification table.*
 
